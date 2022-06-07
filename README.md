@@ -15,5 +15,5 @@ print("AI를 같이 공부해요!")
 [DEEP:EDU 링크](https://www.deepedu.ai/)
 ## Issue
 - Issue 1
-- Issue 1-1
-- Issue 1-1-1
+  - Issue 1-1
+    - Issue 1-1-1
